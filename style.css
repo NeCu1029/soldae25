@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-weight: 700;
+}
+
+.num {
+  font-size: 8rem;
+  margin: 1.5rem;
+}
+
+#diff {
+  font-size: 6rem;
+  margin: 2rem;
+}
+
+button {
+  width: 15rem;
+  height: 9rem;
+  font-size: 4rem;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 1rem;
+}
